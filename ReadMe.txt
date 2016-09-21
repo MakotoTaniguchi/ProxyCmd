@@ -1,19 +1,21 @@
-yŽd—lz
-EƒVƒXƒeƒ€Œ ŒÀ‚ÅƒAƒvƒŠ‚ðŽÀs‚·‚éB
+â€»æ–°å’æ™‚ä»£ã«ä½œæˆã—ã¾ã—ãŸ
 
-yŽg—p•û–@z
-1.Installƒ{ƒ^ƒ“‚ð‰Ÿ‰º‚·‚é
-2.ƒeƒLƒXƒgƒ{ƒbƒNƒX‚ÉƒRƒ}ƒ“ƒh–”‚ÍA‹N“®‚µ‚½ƒAƒvƒŠ‚Ìƒtƒ‹ƒpƒX‚ð“ü—Í‚·‚éB
-3.Runƒ{ƒ^ƒ“‚ð‰Ÿ‰º‚µ‚Ä‰º‚³‚¢B(ƒAƒvƒŠ‚ª‹N“®‚³‚ê‚é‚Í‚¸‚Å‚·)
-4.UnInstallƒ{ƒ^ƒ“‚ð‰Ÿ‰º‚·‚éB
-¦’ˆÓ
-@Installƒ{ƒ^ƒ“‚ÅƒT[ƒrƒX‚ÌƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚Ü‚·B
-@UnInstallƒ{ƒ^ƒ“‚Å•K‚¸ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‰º‚³‚¢B
+ã€ä»•æ§˜ã€‘
+ãƒ»ã‚·ã‚¹ãƒ†ãƒ æ¨©é™ã§ã‚¢ãƒ—ãƒªã‚’å®Ÿè¡Œã™ã‚‹ã€‚
 
-y§ŒÀŽ–€z
-1.ƒeƒLƒXƒgƒ{ƒbƒNƒX‚É“ü—Ío—ˆ‚é•¨‚ÍƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ÌƒRƒ}ƒ“ƒh–”‚ÍA
-ƒtƒ‹ƒpƒX‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ì‚Ý‚Å‚·B
+ã€ä½¿ç”¨æ–¹æ³•ã€‘
+1.Installãƒœã‚¿ãƒ³ã‚’æŠ¼ä¸‹ã™ã‚‹
+2.ãƒ†ã‚­ã‚¹ãƒˆãƒœãƒƒã‚¯ã‚¹ã«ã‚³ãƒžãƒ³ãƒ‰åˆã¯ã€èµ·å‹•ã—ãŸã‚¢ãƒ—ãƒªã®ãƒ•ãƒ«ãƒ‘ã‚¹ã‚’å…¥åŠ›ã™ã‚‹ã€‚
+3.Runãƒœã‚¿ãƒ³ã‚’æŠ¼ä¸‹ã—ã¦ä¸‹ã•ã„ã€‚(ã‚¢ãƒ—ãƒªãŒèµ·å‹•ã•ã‚Œã‚‹ã¯ãšã§ã™)
+4.UnInstallãƒœã‚¿ãƒ³ã‚’æŠ¼ä¸‹ã™ã‚‹ã€‚
+â€»æ³¨æ„
+ã€€Installãƒœã‚¿ãƒ³ã§ã‚µãƒ¼ãƒ“ã‚¹ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¦ã„ã¾ã™ã€‚
+ã€€UnInstallãƒœã‚¿ãƒ³ã§å¿…ãšã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ä¸‹ã•ã„ã€‚
 
-yŠJ”­ŠÂ‹«z
+ã€åˆ¶é™äº‹é …ã€‘
+1.ãƒ†ã‚­ã‚¹ãƒˆãƒœãƒƒã‚¯ã‚¹ã«å…¥åŠ›å‡ºæ¥ã‚‹ç‰©ã¯ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã®ã‚³ãƒžãƒ³ãƒ‰åˆã¯ã€
+ãƒ•ãƒ«ãƒ‘ã‚¹ã®ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã®ã¿ã§ã™ã€‚
+
+ã€é–‹ç™ºç’°å¢ƒã€‘
 VC++
 PlatformSDK
